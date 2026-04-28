@@ -68,4 +68,4 @@ I enjoy using CoPilot Positron Assistant. Having it as an extra tool to explain 
 Publish this report to GitHub Pages and provide a URL to the GitHub Pages for the report. Note that although both GitHub Pages and GitHub repo are online, they are different. GitHub Pages is a website publishing service that hosts the rendered HTML from a QMD file.
 ```
 
-Link to GitPages:
+Link to GitPages: <https://stephaniegutie63.github.io/M06-Reflection/>
